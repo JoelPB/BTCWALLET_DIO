@@ -1,4 +1,4 @@
-# Projeto fs DIO - [Criando e Utilizando a Sua Carteira de Criptomoedas](https://web.dio.me/lab/criando-e-utilizando-a-sua-carteira-de-criptomoedas/learning/9c6af51d-2999-41f1-b4ec-b0eba9cbd30a)
+# Projeto da DIO - [Criando e Utilizando a Sua Carteira de Criptomoedas](https://web.dio.me/lab/criando-e-utilizando-a-sua-carteira-de-criptomoedas/learning/9c6af51d-2999-41f1-b4ec-b0eba9cbd30a)
 
 
 ## Aplicativo para gerenciar a carteira
